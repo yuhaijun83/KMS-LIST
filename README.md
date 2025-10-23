@@ -30,11 +30,15 @@ kms-shanghai01.cangshui.net </br>
 ---------------------------------------------------------------------------------------------------------------------
 # (2).Command example
 
-# Windows 10+11_Enterprise </br>
+# Windows 10 / 11 Enterprise </br>
 slmgr /skms s1.kms.cx </br>
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 </br>
 slmgr /ato </br>
-slmgr /xpr </br>
+
+# Windows Server 2025 </br>
+slmgr /skms s1.kms.cx </br>
+slmgr /ipk D764K-2NDRG-47T6Q-P8T8W-YP6DF </br>
+slmgr /ato </br>
 
 # Office 2024 LTSC Professional Plus </br>
 cd "C:\Program Files (x86)\Microsoft Office\Office16" </br>
