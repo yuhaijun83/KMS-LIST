@@ -31,6 +31,11 @@ kms-shanghai01.cangshui.net </br>
 ---------------------------------------------------------------------------------------------------------------------
 # (2).Command example
 
+# Windows 10 / 11 Professional </br>
+slmgr /skms s1.kms.cx </br>
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX </br>
+slmgr /ato </br>
+
 # Windows 10 / 11 Enterprise </br>
 slmgr /skms s1.kms.cx </br>
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 </br>
