@@ -1,5 +1,6 @@
 # KMS-LIST
-Microsoft Compatible KMS server
+Microsoft Compatible KMS server.  </br>
+You need to connect to the Internet at least once within 180 days.
 ---------------------------------------------------------------------------------------------------------------------
 # (1).KMS List
 
