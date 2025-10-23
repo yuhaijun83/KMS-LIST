@@ -1,4 +1,4 @@
-# KMS-LIST
+# KMS-LIST </br>
 Microsoft Compatible KMS server.  </br>
 You need to connect to the Internet at least once within 180 days.
 ---------------------------------------------------------------------------------------------------------------------
@@ -31,27 +31,27 @@ kms-shanghai01.cangshui.net </br>
 ---------------------------------------------------------------------------------------------------------------------
 # (2).Command example
 
-# Windows 10 / 11 Professional </br>
+# Windows 10 / 11 Professional
 slmgr /skms s1.kms.cx </br>
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX </br>
 slmgr /ato </br>
 
-# Windows 10 / 11 Enterprise </br>
+# Windows 10 / 11 Enterprise
 slmgr /skms s1.kms.cx </br>
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 </br>
 slmgr /ato </br>
 
-# Windows 11 LTSC 2024 AND Windows 10 LTSC 2021、2019 </br>
+# Windows 11 LTSC 2024 AND Windows 10 LTSC 2021、2019
 slmgr /skms s1.kms.cx </br>
 slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D </br>
 slmgr /ato </br>
 
-# Windows Server 2025 </br>
+# Windows Server 2025
 slmgr /skms s1.kms.cx </br>
 slmgr /ipk D764K-2NDRG-47T6Q-P8T8W-YP6DF </br>
 slmgr /ato </br>
 
-# Office 2024 LTSC Professional Plus </br>
+# Office 2024 LTSC Professional Plus
 cd "C:\Program Files (x86)\Microsoft Office\Office16" </br>
 cd "C:\Program Files\Microsoft Office\Office16" </br>
 dir ospp.vbs </br>
@@ -67,3 +67,10 @@ https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activati
 </a> </br>
 
 ---------------------------------------------------------------------------------------------------------------------
+# (4).Windows Download
+
+# Windows 10
+https://www.microsoft.com/zh-cn/software-download/windows10
+
+# Windows 11
+https://www.microsoft.com/zh-cn/software-download/windows11
