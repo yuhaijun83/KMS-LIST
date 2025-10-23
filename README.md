@@ -47,6 +47,8 @@ cscript ospp.vbs /act </br>
 ---------------------------------------------------------------------------------------------------------------------
 # (3).KMS client activation and product key
 
-<a href="https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys" target="_blank">https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys</a> </br>
+<a href="https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys" target="_blank">
+https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys
+</a> </br>
 
 ---------------------------------------------------------------------------------------------------------------------
