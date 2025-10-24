@@ -41,6 +41,11 @@ slmgr /skms s1.kms.cx </br>
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 </br>
 slmgr /ato </br>
 
+# Windows 10 / 11 Professional Workstation
+slmgr /skms s1.kms.cx </br>
+slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J </br>
+slmgr /ato </br>
+
 # Windows 11 LTSC 2024 AND Windows 10 LTSC 2021、2019
 slmgr /skms s1.kms.cx </br>
 slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D </br>
@@ -62,6 +67,9 @@ cscript ospp.vbs /act </br>
 ---------------------------------------------------------------------------------------------------------------------
 # (3).KMS client activation and product key
 
+<a href="https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys" target="_blank">
+https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
+</a> </br>
 <a href="https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys" target="_blank">
 https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys
 </a> </br>
@@ -70,9 +78,11 @@ https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activati
 # (4).Windows Download
 
 # Windows 10
-https://www.microsoft.com/zh-cn/software-download/windows10
+https://www.microsoft.com/en-us/software-download/windows10 </br>
+https://www.microsoft.com/zh-cn/software-download/windows10 </br>
 
 # Windows 11
+https://www.microsoft.com/en-us/software-download/windows11 </br>
 https://www.microsoft.com/zh-cn/software-download/windows11
 
 ---------------------------------------------------------------------------------------------------------------------
