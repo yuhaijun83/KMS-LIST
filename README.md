@@ -51,7 +51,12 @@ slmgr /skms s1.kms.cx </br>
 slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D </br>
 slmgr /ato </br>
 
-# Windows Server 2025
+# Windows Server 2025 Standard
+slmgr /skms s1.kms.cx </br>
+slmgr /ipk TVRH6-WHNXV-R9WG3-9XRFY-MY832 </br>
+slmgr /ato </br>
+
+# Windows Server 2025 Datacenter
 slmgr /skms s1.kms.cx </br>
 slmgr /ipk D764K-2NDRG-47T6Q-P8T8W-YP6DF </br>
 slmgr /ato </br>
